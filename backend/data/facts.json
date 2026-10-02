@@ -1,0 +1,21 @@
+{
+    "full_name": "Luis Camacho",
+    "name": "Lucho",
+    "current_role": "Arquitecto de soluciones",
+    "location": "Bogotá",
+    "email": "lcamacho07@gmail.com",
+    "linkedin": "www.linkedin.com/in/lcamacho07",
+    "specialties": [
+      "Arquitecto empresarial",
+      "Gerente de proyectos",
+      "Arquitecto de soluciones"
+    ],
+    "years_experience": 20,
+    "education": [
+      {
+        "degree": "Ingeniero de sistemas",
+        "institution": "EAN",
+        "year": "2004"
+      }
+    ]
+  }
